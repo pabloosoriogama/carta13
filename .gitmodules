@@ -1,0 +1,4 @@
+[submodule "l10n-mx-cartaporte"]
+	path = l10n-mx-cartaporte
+	url = git@github.com:xmarts/l10n-mx-cartaporte.git
+	branch = 14.0
